@@ -7,7 +7,9 @@ APK_DIR = 'samples'  # 样本存放目录
 AAPT_PATH = 'D:\\Android\\android-sdk\\build-tools\\30.0.1\\aapt'  # 修改为你的 aapt 路径
 
 # 对于安装了 EdXposed 的设备
-XPOSED_LOG_FILE = '/data/user_de/0/org.meowcat.edxposed.manager/log/all.log'
+# https://raw.githubusercontent.com/ElderDrivers/Repository-Website/gh-pages/repo/EdXposedIssuesReport_cn.txt
+# XPOSED_LOG_FILE = '/data/user_de/0/org.meowcat.edxposed.manager/log/all.log'
+XPOSED_LOG_FILE = '/data/misc/edxp_VPgZq4Or3e8Ae4kR/0/log/all.log'
 # 对于安装了原始 Xposed 的设备
 # XPOSED_LOG_FILE = '/data/data/de.robv.android.xposed.installer/log/error.log'
 
